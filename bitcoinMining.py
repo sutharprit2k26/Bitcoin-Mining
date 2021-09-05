@@ -22,7 +22,7 @@ if __name__ == "__main__":
     Jiraiya->Minato->100;
     Minato->Kakashi->72;
     '''
-    dificulty = 19
+    dificulty = 4
     import time
     start =time.time()
     print("Start mining")
